@@ -1,2 +1,2 @@
 # CCNA
-PRAC LABS
+PRACtical LABS in detail!!!!!!!!!!
